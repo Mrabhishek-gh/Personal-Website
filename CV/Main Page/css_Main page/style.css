@@ -175,7 +175,7 @@ h2{
     color:rgba(0, 0, 0, 0.513);
 }
 .hello{
-    font-family: 'Parisienne', cursive;
+    font-family: 'Montserrat', sans-serif;
     font-size: 60px;
     color: #66BFBF;
     padding-top: 1%;
@@ -249,6 +249,14 @@ a:hover{
     position: fixed;
 }
 
+.coding{
+    width: 50%;
+    float: left;
+    margin-left: 45%;
+    margin-bottom: 8%;
+
+}
+
 .btn{
     margin: 4%;
     margin-bottom: 1%;
@@ -267,7 +275,7 @@ a:hover{
 }
 .edu_hed{
     padding-bottom: 3%;
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .size1{
@@ -438,4 +446,23 @@ html {
     right: 1%;
     transform: scaleX(-1);
     top: 1%;
+}
+
+.skill_set{
+    background-color: #d3e9ea;
+}
+.center{
+    margin: auto;
+    width: 50%;
+    
+}
+.diff{
+    padding-bottom: 8%;
+
+}
+td{
+    padding-left: 10%;
+}
+.down{
+    padding-bottom: 4%;
 }
